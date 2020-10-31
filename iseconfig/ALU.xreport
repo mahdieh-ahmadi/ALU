@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-10-30T11:21:54</DateModified>
+  <DateModified>2020-10-31T15:59:06</DateModified>
   <ModuleName>ALU</ModuleName>
   <SummaryTimeStamp>2020-10-30T11:12:58</SummaryTimeStamp>
   <SavedFilePath>E:/university/3991/fpga/homeworks/ALU/iseconfig/ALU.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/university/3991/fpga/homeworks/ALU</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>E:/university/3991/fpga/homeworks/ALU\</ImplementationReportsDirectory>
   <DateInitialized>2020-10-30T11:07:16</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
